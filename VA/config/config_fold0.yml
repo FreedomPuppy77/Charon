@@ -1,0 +1,33 @@
+Data:
+  train_data_root: "/data/lyh/8th_result/pre_data/npz_data/fine_train_1000_800_fold_1/Train_Set"
+  val_data_root: "/data/lyh/8th_result/pre_data/npz_data/val_1000_800_fold_1/Validation_Set"
+  loader:
+    batch_size: 16
+    num_workers: 4
+    pin_memory: True
+    test_batch_size: 16
+
+Model:
+  model_name: Model
+  bin_num: 1
+  num_layer: 4
+  kernel_size: 15
+  out_dim: 256
+  d_state: 8
+  d_conv: 4 
+  expand: 1
+
+
+
+Log:
+  log_file_path: "/data/lyh/8th_result/logs/log/"
+  log_file_name: "mae_1024_mamba_1000_800_fold0.log"
+
+HP:
+  loss: ccc
+  epoch: 50
+  warmup: 5 
+  lr: 0.0003
+  weight_decay: 0.01
+  optimizer: AdamW
+  dropout: 0.3

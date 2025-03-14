@@ -1,0 +1,1 @@
+python3 test.py /data/lyh/8th_result/logs/log/mae_1024_mamba_1000_800_fold0/ckpt_epoch_22_iter_78.pt /home/sherry/lyh/Charon/VA/log/predictions.txt 

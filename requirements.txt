@@ -1,0 +1,11 @@
+matplotlib==3.4.3
+munch==2.5.0
+numpy==1.21.2
+pandas==1.4.1
+Pillow==9.0.1
+PyYAML==6.0
+torch==1.8.1+cu111
+torchaudio==0.8.1
+torchvision==0.9.1+cu111
+mamba-ssm==1.0.1
+python==3.8.10
