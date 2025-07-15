@@ -18,3 +18,17 @@ Train model with `VA/vaestimation.py`.
 ## 4. Predict
 
 Predict with `VA/test.py`.
+
+## 5.Citation
+
+@misc{Mamba-VA,
+  title={Mamba-VA: A Mamba-Based Approach for Continuous Emotion Recognition in Valence-Arousal Space},
+  author={Yuheng Liang and Zixuan Wang and Fangzhou Liu and Minghao Liu and Yizhou Yao},
+  year={2025},
+  eprint={2503.10104},  
+  archivePrefix={arXiv},
+  primaryClass={cs.CV},
+  url={https://arxiv.org/abs/2503.10104} 
+}
+
+
