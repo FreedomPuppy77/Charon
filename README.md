@@ -24,7 +24,7 @@ Predict with `VA/test.py`.
 ```
 @inproceedings{Mamba-VA,
   title={Mamba-VA: A Mamba-Based Approach for Continuous Emotion Recognition in Valence-Arousal Space},
-  author={Liang, Yuheng and Wang, Zixuan and Liu, Fangzhou and Liu, Minghao and Yao, Yizhou},
+  author={Yuheng Liang, Zheyu Wang, Feng Liu, Mingzhou Liu, Yu Yao},
   booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
   pages={5651--5656},
   year={2025}
